@@ -1,0 +1,7 @@
+controller/bookController.class
+br/pucpr/book/JAXRSConfiguration.class
+sessionbean/AbstractFacade.class
+br/pucpr/book/entities/Book.class
+sessionbean/BookFacade.class
+br/pucpr/book/resources/JavaEE8Resource.class
+sessionbean/BookFacadeLocal.class
